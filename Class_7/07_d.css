@@ -1,0 +1,10 @@
+.Search_Bar{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    border-width: 1px;
+    padding-left: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
