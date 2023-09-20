@@ -1,0 +1,50 @@
+.box{
+    text-align: center;
+    font-size: 80px;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: -10px;
+    
+}
+
+
+
+
+.G{
+    color: rgb(66 ,133 ,244);
+
+}
+
+.O{
+    color: rgb(219 68 55);
+}
+
+.o{
+    color: rgb(244 180 0);
+}
+
+.g{
+    color: rgb(66 133 244);
+}
+
+.l{
+    color: rgb(15 157 88);
+}
+
+.e{
+    color: rgb(219 68 55);
+}
+
+
+.Search_Bar{
+    height: 50px;
+    width: 500px;
+    border: none;
+    border-radius: 50px;
+    border-width: 1px;
+    padding-left: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    margin-left: 390px;
+    margin-top: 30px;
+}
