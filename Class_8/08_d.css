@@ -1,0 +1,60 @@
+
+.Fname{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: rgb(155, 155, 155);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-style: solid;
+    
+}
+
+
+
+.Lname{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: rgb(155, 155, 155);
+    border-style: solid;
+}
+
+
+
+.Email{
+    width: 438px;
+    height: 50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: rgb(155, 155, 155);
+    display: block;
+    border-style: solid;
+}
+
+.button{
+    width: 460px;
+    height: 50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: rgb(155, 155, 155);
+    background-color: rgb(35, 131, 255);
+    color: white;
+    border: none;
+}
