@@ -1,0 +1,29 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex1{
+    background-color: rgb(251, 255, 0);
+    width: 100px;
+   
+}
+
+.flex2{
+    background-color: chartreuse;
+    width: 100px;
+}
+
+
+.flex3{
+    background-color: rgb(251, 255, 0);
+    width: 100px;
+}
+
+
+.flex4{
+    background-color: chartreuse;
+    width: 100px;
+}
+
