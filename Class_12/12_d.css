@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+    height: 100px;
+    
+
+    
+}
+
+.flex1{
+    background-color: rgb(251, 255, 0);
+    width: 50px;
+   
+}
+
+.flex2{
+    background-color: chartreuse;
+    width: 50px;
+}
+
+
