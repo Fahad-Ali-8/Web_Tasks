@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+}
+
+
+
+
+.item1{
+    background-color: aqua;
+    height: 50px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.item2{
+    background-color: rgb(0, 255, 13);
+    height: 50px;
+    width: 200px;
+}
+
+
+
