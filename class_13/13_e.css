@@ -1,0 +1,60 @@
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+
+.container{
+    display: flex;
+
+}
+
+.Profile-picture{
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+}
+
+.header-section{
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+
+.header{
+    font-weight: 600;
+}
+
+.header2{
+    color: gray;
+}
+
+.tweet-content{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.video-preview{
+    display: flex;
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: 15px;
+    overflow: hidden;
+    width: 330px;
+}  
+
+.box{
+    height: 100px;
+    width: 110px;
+    background-color: rgb(179, 179, 179);
+}
+
+.youtube-link{
+    margin-left: 10px;
+    margin-top: 20px;
+    color: gray;
+}
+
+.video-title{
+    margin-left: 10px;
+    margin-top: 10px;
+}
