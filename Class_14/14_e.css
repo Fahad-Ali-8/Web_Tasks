@@ -1,0 +1,50 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 50px;
+    right: 50px;
+    top: 10px;
+}
+
+.start{
+    display: flex;
+}
+
+.picture{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.button1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 110, 255);
+    border: none;
+    color: white;
+    height: 40px;
+    width: 140px;
+    border-radius: 5px;
+}
+
+
+
+.button2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(180, 180, 180);
+    border: none;
+    color: rgb(0, 0, 0);
+    height: 40px;
+    width: 140px;
+    border-radius: 5px;
+}
+
+
