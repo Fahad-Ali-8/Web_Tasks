@@ -1,0 +1,35 @@
+.box{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: gray;
+    height: 180px;
+    width: 320px;
+
+}
+
+
+.cross{
+    position: absolute;
+    top: -15px;
+    left: -15px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.time{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+
+}
