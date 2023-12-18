@@ -1,0 +1,98 @@
+.left-side{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 80px;
+    background-color: rgb(27, 27, 27);
+    padding-left: 15px;
+}
+
+.profile-picture1{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    display: block;
+    margin-top: 20px;
+}
+
+.profile-picture2{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    display: block;
+    margin-top: 10px;
+}
+
+.profile-picture3{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+.right-side{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 90px;
+    width: 220px;
+    background-color: rgb(39, 39, 39);
+}
+
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.info{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+
+}
+
+.plus{
+    color: rgb(172, 172, 172);
+    margin-right: 10px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+
+.text-section{
+    margin-left: 10px;
+}
+
+
+
+
+
+.new-video{
+    color: rgb(172, 172, 172);
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+.update{
+    color: rgb(172, 172, 172);
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+.faq{
+    color: rgb(172, 172, 172);
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;   
+}

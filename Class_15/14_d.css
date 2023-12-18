@@ -1,0 +1,52 @@
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+    background-color: rgba(9, 255, 0, 0.623);
+}
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.model{
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+div{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text1{
+    font-weight: 600;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.text2  {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.button{
+    margin-left: 20px;
+
+}
